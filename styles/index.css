@@ -74,6 +74,11 @@ main {
   background-color: var(--secondary-color);
   color: var(--principal-color);
   cursor: pointer;
+  transition: 0.5s;
+}
+
+.form-button:hover {
+  filter: brightness(0.8);
 }
 
 section {
@@ -286,6 +291,11 @@ section {
   background-color: var(--secondary-color);
   color: var(--principal-color);
   cursor: pointer;
+  transition: 0.5s;
+}
+
+.form-button-contact:hover {
+  filter: brightness(0.8);
 }
 
 footer {
