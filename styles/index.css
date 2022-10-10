@@ -300,3 +300,9 @@ footer {
   width: 20px;
   height: 20px;
 }
+
+.divider-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
